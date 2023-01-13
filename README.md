@@ -7,9 +7,9 @@
 ---
 
 <br>
-<div>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mareenbck's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mareenbck&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mareenbck's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mareenbck&layout=compact&theme=dracula&hide_border=true" height="192px"/></a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mareenbck's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Mareenbck&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" height="150px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Mareenbck's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mareenbck&layout=compact&theme=dracula&hide_border=true" height="150px"/></a>
 </div>
 <br><br>
 
