@@ -23,20 +23,6 @@ Full-stack developer based in Paris.
 
 ![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git) ![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
 
-
----
-
-## 🧩 Selected Projects
-
-### Real-time Multiplayer Game
-Web application built with **React, NestJS and WebSocket** featuring real-time communication and authentication.
-
-### HTTP Server
-Implementation of a **HTTP server in C++** following RFC standards.
-
-### Mini Shell
-Development of a **Unix shell in C**, including process management, piping and signal handling.
-
 ---
 
 ## 📊 Most Used Languages
