@@ -6,22 +6,23 @@ Full-stack developer based in Paris.
 
 ## ⚙️ Tech Stack
 
-**Frontend**
+**Frontend** •
+![React](https://img.shields.io/badge/React-grey?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat&logo=typescript)
+![Next.js](https://img.shields.io/badge/Next.js-grey?style=flat&logo=next.js)
 
-![React](https://img.shields.io/badge/React-grey?style=flat&logo=react) ![TypeScript](https://img.shields.io/badge/TypeScript-grey?style=flat&logo=typescript) ![Next.js](https://img.shields.io/badge/Next.js-grey?style=flat&logo=next.js)
+**Backend** •
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js)
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-grey?style=flat&logo=ruby-on-rails)
+![GraphQL](https://img.shields.io/badge/GraphQL-grey?style=flat&logo=graphql)
 
-**Backend**
+**Database** •
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
 
-![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=node.js) ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-grey?style=flat&logo=ruby-on-rails) ![GraphQL](https://img.shields.io/badge/GraphQL-grey?style=flat&logo=graphql)
-
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=postgresql) ![MongoDB](https://img.shields.io/badge/MongoDB-grey?style=flat&logo=mongodb)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git) ![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
+**Tools** •
+![Git](https://img.shields.io/badge/Git-grey?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/Docker-grey?style=flat&logo=docker)
 
 ---
 
